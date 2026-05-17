@@ -1,4 +1,4 @@
-# WIF3001 Software Testing Group Project - Drone4Dengue Automated UI Testing Suite
+# WIF3001 Software Testing Group Project - Drone4Dengue Automated UI Testing
 
 This repository contains the automated Software Testing scripts for the **Drone4Dengue** system. The test suite is built using **Python**, **Selenium WebDriver**, and **Pytest**, focusing on validating the frontend User Interface and exception handling mechanisms against the Software Requirements Specification (SRS).
 

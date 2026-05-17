@@ -11,9 +11,6 @@ Currently, the automation suite covers the following modules:
 - **UC-7: Manage User**
 - **UC-9: Manage Weather Data**
 
-> **Note:** Some tests in this repository (e.g., `TP-09-005`, `TP-09-007`, `TP-09-009`) are intentionally designed to fail in order to expose and document known defects such as UI mismatches, silent failures, and missing server-side validations as part of the QA reporting process.
-
----
 
 ## 📋 Prerequisites
 
